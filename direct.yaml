@@ -1,5 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,ebay.com
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,maj-soul.com
-  - IP-CIDR,149.28.209.60/32
